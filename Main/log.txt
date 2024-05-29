@@ -1,0 +1,6 @@
+2024-05-28T21:56:18.931982400 DEBUG: este é um  debug message.
+2024-05-28T21:56:18.931982400 WARNING: Este é um warning message.
+2024-05-28T21:56:18.942535500 ERROR: este é um error message.
+2024-05-28T21:56:20.762301800 DEBUG: este é um  debug message.
+2024-05-28T21:56:20.762301800 WARNING: Este é um warning message.
+2024-05-28T21:56:20.762301800 ERROR: este é um error message.
